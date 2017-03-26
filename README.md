@@ -1,6 +1,9 @@
-\# STEPS TO SETUP EXPERIMENT__
-KVM__
-\# Install QEMU KVM__
+\# STEPS TO SETUP EXPERIMENT
+
+KVM
+
+\# Install QEMU KVM
+
 sudo apt-get install qemu-kvm
 
 OSv guest:
